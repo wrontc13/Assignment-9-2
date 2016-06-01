@@ -1,0 +1,6 @@
+ORM = the technical way of converting data between incompatiable systems. 
+
+Programming O DataBase
+Class		Table
+Methods	   R    Columns
+Objects	   M     Rows
